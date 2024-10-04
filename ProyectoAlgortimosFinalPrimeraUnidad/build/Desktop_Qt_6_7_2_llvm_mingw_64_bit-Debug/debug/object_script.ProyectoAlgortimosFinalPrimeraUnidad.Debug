@@ -1,0 +1,13 @@
+debug/BusquedaBinaria.o
+debug/BusquedaExponencial.o
+debug/BusquedaInterpolativa.o
+debug/BusquedaLineal.o
+debug/BusquedaSalto.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_BusquedaBinaria.o
+debug/moc_BusquedaExponencial.o
+debug/moc_BusquedaInterpolativa.o
+debug/moc_BusquedaLineal.o
+debug/moc_BusquedaSalto.o
+debug/moc_mainwindow.o

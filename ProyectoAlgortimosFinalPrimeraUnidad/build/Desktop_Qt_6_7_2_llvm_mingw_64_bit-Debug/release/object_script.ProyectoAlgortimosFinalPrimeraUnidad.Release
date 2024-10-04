@@ -1,0 +1,13 @@
+release/BusquedaBinaria.o
+release/BusquedaExponencial.o
+release/BusquedaInterpolativa.o
+release/BusquedaLineal.o
+release/BusquedaSalto.o
+release/main.o
+release/mainwindow.o
+release/moc_BusquedaBinaria.o
+release/moc_BusquedaExponencial.o
+release/moc_BusquedaInterpolativa.o
+release/moc_BusquedaLineal.o
+release/moc_BusquedaSalto.o
+release/moc_mainwindow.o
